@@ -1,4 +1,5 @@
-Dosya Birleştirici ve Kod Analiz Aracı
+##Dosya Birleştirici ve Kod Analiz Aracı##
+
 Bu proje, Python dosyalarını tarayarak dosya adlarını listeleyen, içeriklerini birleştiren ve ek olarak dosyaların kod kalitesini, yapısını, bağımlılıklarını ve çevresel ayarlarını analiz eden gelişmiş bir araçtır. Hem komut satırından (CLI) hem de GUI (grafik arayüz) modunda çalışabilmektedir.
 
 Özellikler
