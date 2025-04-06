@@ -1,0 +1,19 @@
+{
+  "folder": null,
+  "output": "combined_content.txt",
+  "ext": [
+    ".py"
+  ],
+  "nosubdirs": false,
+  "append": false,
+  "encoding": "5",
+  "mp": false,
+  "thread": false,
+  "fixcode": false,
+  "fixtool": "black",
+  "linttool": "flake8",
+  "depmap": false,
+  "deptool": "pydeps",
+  "envbul": false,
+  "mbaix": false
+}

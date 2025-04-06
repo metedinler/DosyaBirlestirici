@@ -1,0 +1,9 @@
+MBAIX_PATH=c:/Users/mete/Zotero/zotasistan/Dosya_birlestirici/mbaix4.py
+ENV_PATH=c:/Users/mete/Zotero/zotasistan/Dosya_birlestirici/env_olusturucu12.py
+
+# dosyabirlestirici icin kullaniliyor ayni dizinde olmali
+
+# program kendi bagimliliklarini yukler.
+# siz mumkunse (Vs Code kullanmiyorsaniz) sanal ortam olusturun
+# yukaridaki iki program parcasinida dosyabirlestirici kok dizinine kopyalayin 
+# ve path degerlerini kendinize gore ayarlayin.

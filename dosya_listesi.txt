@@ -1,0 +1,4 @@
+# dosyabirlestiricideep6.07.py
+dbenv.xenv
+dosyabirlestirici_config.json
+readme.md
