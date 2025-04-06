@@ -1,4 +1,6 @@
 # dosyabirlestiricideep6.07.py
 dbenv.xenv
+dosya_listesi.txt
 dosyabirlestirici_config.json
+programcini_not_defteri.md
 readme.md
